@@ -1,2 +1,2 @@
 #!/bin/bashe
-find . -name "*.bak" -type f -delete
+rm -r *.js
