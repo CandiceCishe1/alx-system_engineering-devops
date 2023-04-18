@@ -1,2 +1,2 @@
 #!/bin/bashe
-find . -name "*.js" | xargs rm
+find . -name "*.bak" -type f -delete
