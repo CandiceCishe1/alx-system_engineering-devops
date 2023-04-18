@@ -1,2 +1,2 @@
 #!/bin/bashe
-tree -a
+ls -lRa
