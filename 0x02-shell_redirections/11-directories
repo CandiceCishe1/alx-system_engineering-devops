@@ -1,2 +1,2 @@
 #!/bin/bashe
-gio tree -h
+tree -a
