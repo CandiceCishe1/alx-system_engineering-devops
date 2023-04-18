@@ -1,0 +1,1 @@
+All abouth shell init
